@@ -1,29 +1,36 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+
 use LWP::UserAgent;
 use JSON;
 
 my $api_key = 'YOUR_ALPHA_VANTAGE_API_KEY';
-my $symbol = 'AAPL';
+my $symbol = '7011.T';
 my $output_file = 'cross_results.json';
+
 
 # 株価データの取得
 sub get_stock_data {
     my ($symbol, $api_key) = @_;
     my $ua = LWP::UserAgent->new;
-    my $url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=$symbol&apikey=$api_key";
-    my $response = $ua->get($url);
+    my $url = "https://query2.finance.yahoo.com/v8/finance/chart/7011.T";
+    #my $url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=$symbol&apikey=$api_key";
+    #my $response = $ua->get($url);
+    my $response = `curl $url`;
 
-    die "Failed to get data: ", $response->status_line unless $response->is_success;
+    #die "Failed to get data: ", $response->status_line unless $response->is_success;
 
-    my $data = decode_json($response->decoded_content);
-    my $time_series = $data->{'Time Series (Daily)'};
+    #my $data = decode_json($response->decoded_content);
+    print STDERR "ret:$response";
+    my $data = decode_json($response);
+    my $currency = $data->{chart}{result}[0]{meta}{currency};
+    my $symb = $data->{chart}{result}[0]{meta}{symbol};
     
-    my @prices;
-    foreach my $date (sort keys %$time_series) {
-        push @prices, $time_series->{$date}->{'4. close'};
-    }
+    my @prices = ($currency, $symb);
+#    foreach my $date (sort keys %$time_series) {
+#        push @prices, $time_series->{$date}->{'4. close'};
+#    }
     return @prices;
 }
 
@@ -61,10 +68,10 @@ sub detect_cross {
 
 # メインルーチン
 sub main {
-    #my @prices = get_stock_data($symbol, $api_key);
+    my @prices = get_stock_data($symbol, $api_key);
     #my @ma75 = moving_average(\@prices, 75);
     #my %result = detect_cross(\@prices, \@ma75);
-	my %result = ( "aaa" => "bbb" );
+    my %result = ($prices[0] => $prices[1]);
 
     open my $fh, '>', $output_file or die "Could not open file '$output_file': $!";
     print $fh encode_json(\%result);
