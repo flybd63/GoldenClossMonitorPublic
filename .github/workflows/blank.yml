@@ -38,3 +38,12 @@ jobs:
       # output json
       - name: SaveJSONfile
         run: echo {"aa":"bb"} > output.json
+
+      - shell: bash
+        run: |
+          expr 3 + 7 > math-homework.txt
+      - name: Upload math result for job 1
+        uses: actions/upload-artifact@v4
+        with:
+          name: homework_pre
+          path: math-homework.txt
