@@ -44,11 +44,12 @@ jobs:
           name: output
           path: output.json
 
-      - shell: bash
-        run: |
-          expr 3 + 7 > math-homework.txt
-      - name: Upload math result for job 1
-        uses: actions/upload-artifact@v4
-        with:
-          name: homework_pre
-          path: math-homework.txt
+      - name: push output
+        uses: actions/checkout@v3
+      - run: |
+          date > generated.txt
+          git config user.name  "flybd63"
+          git config user.email "flybd63@gmail.com"
+          git add .
+          git commit -m "generated"
+          git push
