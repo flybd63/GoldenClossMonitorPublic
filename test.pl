@@ -73,9 +73,11 @@ sub main {
     #my %result = detect_cross(\@prices, \@ma75);
     my %result = ($prices[0] => $prices[1]);
 
-    open my $fh, '>', $output_file or die "Could not open file '$output_file': $!";
-    print $fh encode_json(\%result);
-    close $fh;
+    #open my $fh, '>', $output_file or die "Could not open file '$output_file': $!";
+    #print $fh encode_json(\%result);
+    #close $fh;
+
+    print encode_json(\%result);
 }
 
 main();
