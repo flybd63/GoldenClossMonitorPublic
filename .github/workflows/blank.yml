@@ -33,14 +33,16 @@ jobs:
         run: cpanm --installdeps .
 
       - name: Run test.pl
-        run: perl test.pl > output.json
+        run: perl -V
+#       run: perl test.pl > output.json
       
-      - run: |   
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
-          git push
+#      - run: |   
+#          git config user.name github-actions
+#          git config user.email github-actions@github.com
+#          git add .
+#          git commit -m "generated"
+#          git push
+
 #          echo "Hello GitHub Actions!" > hello.txt
  
       # output json
