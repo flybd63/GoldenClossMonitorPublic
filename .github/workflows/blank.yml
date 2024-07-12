@@ -24,13 +24,24 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
+      - name: Setup perl
+        uses: shogo82148/actions-setup-perl@v1
+        with: 
+          perl-version: '5.32'
+
+      - name: Install dependencies
+        run: cpanm --installdeps .
+
+      - name: Run test.pl
+        run: perl test.pl > output.json
+      
       - run: |   
-          echo "Hello GitHub Actions!" > hello.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit -m "generated"
           git push
+#          echo "Hello GitHub Actions!" > hello.txt
  
       # output json
 #      - shell: bash
