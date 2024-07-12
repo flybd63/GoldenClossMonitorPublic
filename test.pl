@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-use LWP::UserAgent;
+#use LWP::UserAgent;
 use JSON;
 
 my $api_key = 'YOUR_ALPHA_VANTAGE_API_KEY';
@@ -13,7 +13,7 @@ my $output_file = 'cross_results.json';
 # 株価データの取得
 sub get_stock_data {
     my ($symbol, $api_key) = @_;
-    my $ua = LWP::UserAgent->new;
+    #my $ua = LWP::UserAgent->new;
     my $url = "https://query2.finance.yahoo.com/v8/finance/chart/7011.T";
     #my $url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=$symbol&apikey=$api_key";
     #my $response = $ua->get($url);
