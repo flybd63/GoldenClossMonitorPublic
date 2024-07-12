@@ -23,9 +23,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - run: |   
-          echo "Hello GitHub Actions!" >> hello.txt
+          echo "Hello GitHub Actions!" > hello.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
@@ -33,10 +33,10 @@ jobs:
           git push
  
       # output json
-      - shell: bash
-        run: echo {"aa":"bb"} > output.json
-      - name: SaveJSONfile
-        uses: actions/upload-artifact@v4
-        with:
-          name: output
-          path: output.json
+#      - shell: bash
+#        run: echo {"aa":"bb"} > output.json
+#      - name: SaveJSONfile
+#        uses: actions/upload-artifact@v4
+#        with:
+#          name: output
+#          path: output.json
