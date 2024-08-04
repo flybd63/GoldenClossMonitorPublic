@@ -15,7 +15,7 @@ my $len = scalar(keys %tikers);
 my $count = 1;
 my %result = ();
 foreach my $t (sort keys %tikers){
-    print STDERR "$count/$len t:$t\n";
+    #print STDERR "$count/$len t:$t\n";
     my $symbol = "$t.T";
 
     my @prices = get_stock_data($symbol);
@@ -31,7 +31,7 @@ foreach my $t (sort keys %tikers){
     }
 
     $count ++;
-    #last;
+    last;
 }
 
 print encode_json(\%result);
