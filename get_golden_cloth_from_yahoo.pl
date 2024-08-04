@@ -31,7 +31,7 @@ foreach my $t (sort keys %tikers){
     }
 
     $count ++;
-    last;
+    #last;
 }
 
 print encode_json(\%result);
