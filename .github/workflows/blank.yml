@@ -36,7 +36,8 @@ jobs:
 #        run: cpanm --installdeps .
 
       - name: execute pl
-        run: perl test.pl > output.json
+        run: perl get_golden_cloth_from_yahoo.pl > output.json
+#        run: perl test.pl > output.json
       
       - run: |   
           git config user.name github-actions
