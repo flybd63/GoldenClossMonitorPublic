@@ -81,7 +81,7 @@ exit 0;
 ################################################################################
 
 sub load_mst {
-    my $tikers_file = "./tcikers.json";
+    my $tikers_file = "./tickers.json";
     
     open(IN, $tikers_file);
     my $mst_jtxt = <IN>;
