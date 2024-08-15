@@ -45,9 +45,11 @@ foreach my $t (sort keys %tikers){
         $result{$t}{dead_cross} = $r{dead_cross};
         $result{$t}{golden_cross_near} = $r{golden_cross_near};
         $result{$t}{dead_cross_near} = $r{dead_cross_near};
+        $result{$t}{price} = $prices[-1];
+
     }
 
-    #last;
+    #last
 }
 
 my $now = DateTime->now(time_zone => 'GMT');
