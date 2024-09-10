@@ -17,7 +17,9 @@ my $count = 0;
 my %result = ();
 foreach my $t (sort keys %tikers){
     $count++;
-    
+
+    #if($t ne "2282"){ next; }
+
     if($tikers{$t}{class} !~ /^プライム/ &&
        $tikers{$t}{class} !~ /^スタンダード/ &&
        $tikers{$t}{class} !~ /^グロース/ ){
@@ -26,7 +28,7 @@ foreach my $t (sort keys %tikers){
 
     print STDERR "$count/$len t:$t $tikers{$t}{name} $tikers{$t}{class}\n";
     my $symbol = "$t.T";
-
+    
     my @prices = get_stock_data($symbol);
 
     if($#prices < 74){
@@ -134,7 +136,7 @@ sub get_stock_data {
         #    }
     };
     if($@){
-        print STDERR "ERROR:$@";
+        print STDERR "ERROR:symbol: $symbol\n$@";
     }
     return @prices;
 }
