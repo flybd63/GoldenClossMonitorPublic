@@ -9,22 +9,24 @@ use DateTime;
 my $threshold = 90;
 my $today = localtime->strftime('%Y%m%d');
 
+my $mode = $ARGV[0];#P,S,G(プライム、スタンダード、グロース)
+if( ! defined $mode || $mode eq ''){ $mode = "P"; };#指定なければプライムだけ
 
 # メインルーチン
 my %tikers = %{&load_mst()};
 my $len = scalar(keys %tikers);
 my $count = 0;
 my %result = %{&load_result($today)};
+
 foreach my $t (sort keys %tikers){
     $count++;
 
     if($t ne "25935"){ next; }
 
-    if($tikers{$t}{class} !~ /^プライム/ &&
-       $tikers{$t}{class} !~ /^スタンダード/ &&
-       $tikers{$t}{class} !~ /^グロース/ ){
-        next;
-    }
+    if( $mode =~ "P" && $tikers{$t}{class} =~ /^プライム/ ){}
+    elsif( $mode =~ "S" && $tikers{$t}{class} =~ /^スタンダード/){}
+    elsif( $mode =~ "G" && $tikers{$t}{class} =~ /^グロース/ ){}
+    else{ next; }
 
     print STDERR "$count/$len t:$t $tikers{$t}{name} $tikers{$t}{class}\n";
     my $symbol = "$t.T";
