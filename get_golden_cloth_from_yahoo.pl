@@ -14,11 +14,11 @@ my $today = localtime->strftime('%Y%m%d');
 my %tikers = %{&load_mst()};
 my $len = scalar(keys %tikers);
 my $count = 0;
-my %result = ();
+my %result = %{&load_result($today)};
 foreach my $t (sort keys %tikers){
     $count++;
 
-    #if($t ne "25935"){ next; }
+    if($t ne "25935"){ next; }
 
     if($tikers{$t}{class} !~ /^プライム/ &&
        $tikers{$t}{class} !~ /^スタンダード/ &&
@@ -96,6 +96,22 @@ sub load_mst {
     my $mst_json = from_json($mst_jtxt);
     
     return $mst_json;
+}
+
+sub load_result {
+    my ($date) = @_;
+    my $result_file = "./result/$date.json";
+
+    my $json = {};
+    $json->{result} = {};
+    
+    if(-e $result_file){
+        open(IN, $result_file);
+        my $jtxt = <IN>;
+        close IN;
+        $json = from_json($jtxt);
+    }        
+    return $json->{result};
 }
 
 sub save_json {
