@@ -21,7 +21,7 @@ my %result = %{&load_result($today)};
 foreach my $t (sort keys %tikers){
     $count++;
 
-    if($t ne "25935"){ next; }
+    #if($t ne "25935"){ next; }
 
     if( $mode =~ "P" && $tikers{$t}{class} =~ /^プライム/ ){}
     elsif( $mode =~ "S" && $tikers{$t}{class} =~ /^スタンダード/){}
