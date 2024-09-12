@@ -18,7 +18,7 @@ my %result = ();
 foreach my $t (sort keys %tikers){
     $count++;
 
-    #if($t ne "2282"){ next; }
+    #if($t ne "25935"){ next; }
 
     if($tikers{$t}{class} !~ /^プライム/ &&
        $tikers{$t}{class} !~ /^スタンダード/ &&
@@ -33,6 +33,11 @@ foreach my $t (sort keys %tikers){
 
     if($#prices < 74){
         print STDERR "  - prices is short. skip. len: $#prices\n";
+        next;
+    }
+
+    if (grep { !defined($_) } @prices) {
+        print STDERR "princes has null. skip\n";
         next;
     }
     
@@ -128,8 +133,6 @@ sub get_stock_data {
         #splice(@prices, 76);
 
         @prices = @{$data->{chart}{result}[0]{indicators}{quote}[0]{close}};
-        
-
         
         #    foreach my $date (sort keys %$time_series) {
         #        push @prices, $time_series->{$date}->{'4. close'};
