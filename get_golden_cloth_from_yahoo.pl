@@ -5,6 +5,7 @@ use warnings;
 use JSON;
 use Time::Piece;
 use DateTime;
+use POSIX qw(strftime);
 
 my $threshold = 90;
 my $today = localtime->strftime('%Y%m%d');
@@ -21,7 +22,7 @@ my %result = %{&load_result($today)};
 foreach my $t (sort keys %tikers){
     $count++;
 
-    #if($t ne "25935"){ next; }
+    #if($t ne "1941"){ next; }
 
     if( $mode =~ "P" && $tikers{$t}{class} =~ /^プライム/ ){}
     elsif( $mode =~ "S" && $tikers{$t}{class} =~ /^スタンダード/){}
@@ -31,7 +32,7 @@ foreach my $t (sort keys %tikers){
     print STDERR "$count/$len t:$t $tikers{$t}{name} $tikers{$t}{class}\n";
     my $symbol = "$t.T";
     
-    my @prices = get_stock_data($symbol);
+    my ($last_end_date, @prices) = get_stock_data($symbol);
 
     if($#prices < 74){
         print STDERR "  - prices is short. skip. len: $#prices\n";
@@ -55,7 +56,7 @@ foreach my $t (sort keys %tikers){
         $result{$t}{golden_cross_near} = $r{golden_cross_near};
         $result{$t}{dead_cross_near} = $r{dead_cross_near};
         $result{$t}{price} = $prices[-1];
-
+        $result{$t}{end_date} = strftime("%Y-%m-%dT%H:%M:%S", gmtime($last_end_date));
     }
 
     #last
@@ -133,6 +134,7 @@ sub save_json {
 sub get_stock_data {
     my ($symbol) = @_;
 
+    my $end_date = '0';
     my @prices = ();
 
     eval{
@@ -151,6 +153,8 @@ sub get_stock_data {
         #splice(@prices, 76);
 
         @prices = @{$data->{chart}{result}[0]{indicators}{quote}[0]{close}};
+
+        $end_date = $data->{chart}{result}[0]{meta}{currentTradingPeriod}{regular}{end};
         
         #    foreach my $date (sort keys %$time_series) {
         #        push @prices, $time_series->{$date}->{'4. close'};
@@ -159,7 +163,7 @@ sub get_stock_data {
     if($@){
         print STDERR "ERROR:symbol: $symbol\n$@";
     }
-    return @prices;
+    return ($end_date, @prices);
 }
 
 # 移動平均の計算
