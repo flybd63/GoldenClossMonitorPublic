@@ -2,6 +2,7 @@ import yfinance as yf
 import json
 import datetime
 import os
+import sys
 
 THRESHOLD = 90
 def load_mst():
@@ -30,7 +31,8 @@ def get_stock_data(symbol):
         last_end_date = hist.index[-1].strftime("%Y-%m-%dT%H:%M:%S") if len(hist) > 0 else "0"
         return last_end_date, prices
     except Exception as e:
-        print(f"ERROR: {symbol} - {e}")
+        sys.stderr.write(f"ERROR: {symbol} - {e}\n")
+        #print(f"ERROR: {symbol} - {e}")
         return "0", []
 
 def moving_average(prices, days):
@@ -61,13 +63,22 @@ def main(mode="P"):
     result = load_result(today)
     
     for count, (ticker, info) in enumerate(tickers.items(), 1):
-        if mode not in info["class"]:
-            continue
-        print(f"{count}/{len(tickers)} t:{ticker} {info['name']} {info['class']}")
+        if mode == "P" and "プライム" in info["class"]:
+            pass
+        elif mode == "S" and "スタンダード" in info["class"]:
+            pass
+        elif mode == "G" and "グロース" in info["class"]:
+            pass
+        else:
+            continue  
+
+        sys.stderr.write(f"{count}/{len(tickers)} t:{ticker} {info['name']} {info['class']}\n")
+        #print(f"{count}/{len(tickers)} t:{ticker} {info['name']} {info['class']}")
         symbol = f"{ticker}.T"
         last_end_date, prices = get_stock_data(symbol)
         if len(prices) < 75 or any(p is None for p in prices):
-            print("  - prices is short or has null values. Skipping.")
+            sys.stderr.write(f"  - prices is short or has null values. Skipping.\n")
+            #print("  - prices is short or has null values. Skipping.")
             continue
         ma25, ma75 = moving_average(prices, 25), moving_average(prices, 75)
         cross_result = detect_cross(prices, ma25, ma75, THRESHOLD)
@@ -76,8 +87,9 @@ def main(mode="P"):
     
     now = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S')
     output = {"date_modified": now, "result": result}
-    print(json.dumps(output, indent=4, ensure_ascii=False))
-    save_json("latest", output)
+    sys.stdout.write(json.dumps(output, indent=4, ensure_ascii=False) + "\n")
+    #print(json.dumps(output, indent=4, ensure_ascii=False))
+    #save_json("latest", output)
 
 if __name__ == "__main__":
     import sys
