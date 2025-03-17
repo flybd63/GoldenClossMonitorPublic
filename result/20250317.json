@@ -1,5 +1,5 @@
 {
-    "date_modified": "2025-03-17T08:23:21",
+    "date_modified": "2025-03-17T09:14:07",
     "result": {
         "6905": {
             "golden_cross": 0,
@@ -7143,6 +7143,3254 @@
             "golden_cross_near": 0,
             "dead_cross_near": 58.88260633680551,
             "price": 4040.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3911": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 68.28148148148149,
+            "dead_cross_near": 0,
+            "price": 244.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4893": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.45925925925926,
+            "price": 169.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6597": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 35.422222222222345,
+            "dead_cross_near": 0,
+            "price": 1225.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "145A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 75.42222222222222,
+            "dead_cross_near": 0,
+            "price": 673.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9553": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 51.837037037037035,
+            "dead_cross_near": 0,
+            "price": 270.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7774": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.41481481481482,
+            "price": 451.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7078": {
+            "golden_cross": 0,
+            "dead_cross": 1,
+            "golden_cross_near": 0,
+            "dead_cross_near": 96.07407407407405,
+            "price": 506.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7047": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 76.65185185185186,
+            "price": 1808.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6558": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 56.20740740740744,
+            "price": 774.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4487": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 85.0222222222222,
+            "price": 305.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5580": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 69.77777777777773,
+            "price": 960.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3646": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 75.42222222222222,
+            "price": 349.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4572": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 87.21481481481483,
+            "price": 282.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7068": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 83.18243634259261,
+            "dead_cross_near": 0,
+            "price": 508.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6090": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 38.56296296296301,
+            "dead_cross_near": 0,
+            "price": 697.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6554": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 21.259259259259256,
+            "dead_cross_near": 0,
+            "price": 910.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3990": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 60.74074074074076,
+            "dead_cross_near": 0,
+            "price": 530.0,
+            "end_date": "2025-02-14T00:00:00"
+        },
+        "4596": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.35555555555557,
+            "price": 51.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9250": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 87.73333333333338,
+            "dead_cross_near": 0,
+            "price": 1428.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3652": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 42.740740740740776,
+            "dead_cross_near": 0,
+            "price": 1697.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "143A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 88.39999999999995,
+            "price": 910.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5704": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 63.71851851851855,
+            "dead_cross_near": 0,
+            "price": 490.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7110": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 43.09629629629625,
+            "dead_cross_near": 0,
+            "price": 1201.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4258": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 0,
+            "price": 3570.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4437": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 80.7555555555555,
+            "price": 647.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7074": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 63.79259259259263,
+            "dead_cross_near": 0,
+            "price": 337.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4484": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 83.2,
+            "price": 209.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4579": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 89.24444444444444,
+            "price": 395.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3935": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 59.440987141927046,
+            "dead_cross_near": 0,
+            "price": 481.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5884": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 98.77037037037036,
+            "dead_cross_near": 0,
+            "price": 300.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4833": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 99.86666666666666,
+            "dead_cross_near": 0,
+            "price": 86.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9331": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 76.3851851851852,
+            "dead_cross_near": 0,
+            "price": 1022.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6537": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 78.57777777777781,
+            "dead_cross_near": 0,
+            "price": 394.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5595": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 15.970370370370246,
+            "price": 987.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4586": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 99.25925925925925,
+            "dead_cross_near": 0,
+            "price": 84.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "166A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 27.65925925925924,
+            "price": 671.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7777": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 91.46666666666667,
+            "price": 134.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4438": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 79.28888888888889,
+            "price": 318.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6085": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.45925925925927,
+            "price": 450.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2342": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 95.83703703703704,
+            "price": 179.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2164": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 40.53333333333335,
+            "dead_cross_near": 0,
+            "price": 403.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3557": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 33.807407407407354,
+            "price": 937.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5590": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 28.16296296296299,
+            "dead_cross_near": 0,
+            "price": 900.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4389": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 59.644444444444524,
+            "dead_cross_near": 0,
+            "price": 1418.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7077": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 87.65925925925937,
+            "price": 1013.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4488": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 98.11851851851871,
+            "dead_cross_near": 0,
+            "price": 3240.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6030": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 15.851851851852084,
+            "price": 3560.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4412": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 39.970370370370404,
+            "dead_cross_near": 0,
+            "price": 640.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7048": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 96.94814814814815,
+            "price": 267.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6557": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 40.296296296296276,
+            "price": 1521.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4883": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 84.32592592592593,
+            "price": 90.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4376": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.54814814814816,
+            "price": 202.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "149A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 2.5777777777778343,
+            "dead_cross_near": 0,
+            "price": 887.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7067": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 63.15555555555559,
+            "price": 929.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5870": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 28.5481481481482,
+            "dead_cross_near": 0,
+            "price": 579.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3671": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 86.0808358651621,
+            "dead_cross_near": 0,
+            "price": 855.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4882": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 10.903703703703771,
+            "dead_cross_near": 0,
+            "price": 721.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3727": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 96.15095712167245,
+            "price": 141.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4014": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 49.718518518518515,
+            "dead_cross_near": 0,
+            "price": 510.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6173": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 89.05185185185182,
+            "dead_cross_near": 0,
+            "price": 310.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5259": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 25.200000000000067,
+            "price": 1160.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9244": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.57777777777775,
+            "price": 742.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9168": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 72.75555555555557,
+            "price": 643.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4170": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.0888888888889,
+            "price": 162.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3927": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 41.99999999999995,
+            "dead_cross_near": 0,
+            "price": 728.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6545": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 2.859259259259317,
+            "dead_cross_near": 0,
+            "price": 607.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4175": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 61.89629629629634,
+            "price": 1379.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4052": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 74.74074074074073,
+            "price": 427.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7374": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 87.1111111111112,
+            "price": 1529.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5070": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 47.95385380497679,
+            "price": 547.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9164": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 75.84225531684025,
+            "price": 376.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3300": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 7.674074074074166,
+            "price": 2070.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4165": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 12.459259259259293,
+            "dead_cross_near": 0,
+            "price": 1185.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2351": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 82.17777777777775,
+            "price": 358.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4240": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 81.33333333333333,
+            "dead_cross_near": 0,
+            "price": 259.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5126": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.08148148148156,
+            "price": 2015.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4591": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 70.16296296296296,
+            "dead_cross_near": 0,
+            "price": 117.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4017": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 62.31111111111112,
+            "dead_cross_near": 0,
+            "price": 280.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6181": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 56.992592592592594,
+            "dead_cross_near": 0,
+            "price": 152.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7689": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 74.22222222222217,
+            "price": 529.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5252": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 81.8518518518518,
+            "price": 1005.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3967": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 15.155555555555544,
+            "price": 682.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4260": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 89.8222222222222,
+            "dead_cross_near": 0,
+            "price": 449.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9227": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 51.600000000000065,
+            "price": 549.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5139": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 71.88148148148154,
+            "dead_cross_near": 0,
+            "price": 815.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4265": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 81.25925925925925,
+            "dead_cross_near": 0,
+            "price": 303.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4076": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 83.12592592592586,
+            "price": 1411.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3777": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.79259259259258,
+            "price": 32.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5527": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 87.39526548032408,
+            "dead_cross_near": 0,
+            "price": 971.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2195": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.09571894892939,
+            "price": 331.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7080": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 59.94659921151626,
+            "dead_cross_near": 0,
+            "price": 619.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5025": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 19.807407407407453,
+            "dead_cross_near": 0,
+            "price": 753.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4563": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 88.56296296296296,
+            "dead_cross_near": 0,
+            "price": 66.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6562": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 30.10370370370361,
+            "dead_cross_near": 0,
+            "price": 1699.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4442": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 62.71111111111111,
+            "price": 429.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5255": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.55555555555556,
+            "dead_cross_near": 0,
+            "price": 92.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4890": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.42962962962962,
+            "price": 388.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7082": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 65.3777777777777,
+            "dead_cross_near": 0,
+            "price": 1368.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2334": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 46.69629629629627,
+            "dead_cross_near": 0,
+            "price": 539.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3664": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 89.8962962962963,
+            "dead_cross_near": 0,
+            "price": 44.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4597": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.33333333333333,
+            "price": 39.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9241": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 92.81481481481478,
+            "price": 1300.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6198": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 91.95555555555555,
+            "dead_cross_near": 0,
+            "price": 346.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3803": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.66666666666667,
+            "price": 472.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2388": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 93.67407407407407,
+            "dead_cross_near": 0,
+            "price": 71.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3187": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.49629629629631,
+            "dead_cross_near": 0,
+            "price": 356.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3961": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 28.459259259259273,
+            "price": 693.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4422": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 91.73333333333326,
+            "price": 619.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "150A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 63.00740740740744,
+            "dead_cross_near": 0,
+            "price": 572.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3674": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 99.76296296296299,
+            "dead_cross_near": 0,
+            "price": 374.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4169": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 44.0740740740741,
+            "price": 308.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4479": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 35.08148148148153,
+            "dead_cross_near": 0,
+            "price": 577.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4811": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0.557682291666628,
+            "dead_cross_near": 0,
+            "price": 2662.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4584": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 85.55555555555556,
+            "dead_cross_near": 0,
+            "price": 131.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "1401": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 62.23703703703703,
+            "price": 703.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9253": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 93.45185185185187,
+            "dead_cross_near": 0,
+            "price": 628.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4179": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 52.355555555555554,
+            "dead_cross_near": 0,
+            "price": 413.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4486": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 4.696316189236116,
+            "dead_cross_near": 0,
+            "price": 1180.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7371": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 67.95555555555552,
+            "dead_cross_near": 0,
+            "price": 579.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4378": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 81.48148148148152,
+            "price": 603.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4429": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 9.511111111111049,
+            "price": 848.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6579": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.17777777777779,
+            "price": 332.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7792": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 17.422222222222295,
+            "dead_cross_near": 0,
+            "price": 1145.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3628": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 62.251851851851825,
+            "dead_cross_near": 0,
+            "price": 510.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3556": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.60740740740742,
+            "dead_cross_near": 0,
+            "price": 277.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "137A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 8.87407407407409,
+            "dead_cross_near": 0,
+            "price": 1181.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4496": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 27.466666666666693,
+            "dead_cross_near": 0,
+            "price": 845.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4594": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.25185185185185,
+            "price": 44.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3138": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 94.09364330150463,
+            "dead_cross_near": 0,
+            "price": 681.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7089": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 47.5407407407407,
+            "dead_cross_near": 0,
+            "price": 1135.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7066": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 64.9925925925926,
+            "price": 646.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3237": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 95.36296296296297,
+            "price": 100.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4598": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.77037037037043,
+            "dead_cross_near": 0,
+            "price": 591.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7353": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 10.222222222222276,
+            "dead_cross_near": 0,
+            "price": 787.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "155A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 31.792592592592605,
+            "price": 430.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3359": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 74.51851851851852,
+            "price": 422.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9271": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 44.2962962962963,
+            "price": 436.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6522": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 90.10370370370367,
+            "dead_cross_near": 0,
+            "price": 486.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6033": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 1.7333333333332757,
+            "price": 1309.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4316": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 24.414814814814846,
+            "dead_cross_near": 0,
+            "price": 450.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "1431": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 94.05269730179397,
+            "dead_cross_near": 0,
+            "price": 695.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3624": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 65.52592592592592,
+            "price": 124.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4256": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 10.607407407407365,
+            "price": 1041.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7776": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 50.0,
+            "price": 372.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9259": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 43.95555555555549,
+            "dead_cross_near": 0,
+            "price": 605.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "8938": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.0,
+            "price": 698.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2997": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 7.303703703703757,
+            "price": 853.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4395": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 58.72592592592595,
+            "dead_cross_near": 0,
+            "price": 804.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5244": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 80.28148148148148,
+            "price": 282.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7093": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 96.54814814814813,
+            "dead_cross_near": 0,
+            "price": 551.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "184A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 74.77037037037033,
+            "dead_cross_near": 0,
+            "price": 537.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3914": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 4.666666666666464,
+            "dead_cross_near": 0,
+            "price": 3425.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9337": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 48.592592592592354,
+            "dead_cross_near": 0,
+            "price": 2321.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6046": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 89.76296296296296,
+            "price": 120.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4074": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 5.614814814814761,
+            "dead_cross_near": 0,
+            "price": 830.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5619": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 76.71111111111108,
+            "price": 989.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4173": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 84.45925925925924,
+            "price": 296.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7803": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0.17777777777781,
+            "dead_cross_near": 0,
+            "price": 535.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "192A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 65.55555555555556,
+            "price": 3660.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7674": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 3.4470558449073763,
+            "price": 3215.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3814": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 86.29629629629632,
+            "dead_cross_near": 0,
+            "price": 355.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3690": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 72.75555555555557,
+            "dead_cross_near": 0,
+            "price": 582.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4978": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 71.17037037037038,
+            "dead_cross_near": 0,
+            "price": 161.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5248": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 57.4962962962963,
+            "dead_cross_near": 0,
+            "price": 741.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "194A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 49.39259259259264,
+            "price": 709.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7326": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 16.13333333333331,
+            "dead_cross_near": 0,
+            "price": 1142.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4415": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 20.874074074074034,
+            "price": 762.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7793": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 30.774168113425983,
+            "dead_cross_near": 0,
+            "price": 1390.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7359": {
+            "golden_cross": 0,
+            "dead_cross": 1,
+            "golden_cross_near": 0,
+            "dead_cross_near": 83.9111111111111,
+            "price": 251.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7112": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 52.97777777777779,
+            "price": 467.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5532": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 93.55555555555534,
+            "price": 2490.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3917": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 91.68888888888887,
+            "dead_cross_near": 0,
+            "price": 583.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3680": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.84444444444443,
+            "dead_cross_near": 0,
+            "price": 275.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4575": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 11.837037037037012,
+            "dead_cross_near": 0,
+            "price": 1012.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2937": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 5.18518518518527,
+            "dead_cross_near": 0,
+            "price": 1647.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9218": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 50.800000000000026,
+            "dead_cross_near": 0,
+            "price": 798.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "196A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 37.64444444444444,
+            "dead_cross_near": 0,
+            "price": 400.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5031": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 84.01481481481483,
+            "price": 241.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7376": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 44.799999999999926,
+            "dead_cross_near": 0,
+            "price": 1780.0,
+            "end_date": "2025-03-14T00:00:00"
+        },
+        "7041": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 40.10370370370367,
+            "price": 316.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4263": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 98.53333333333327,
+            "dead_cross_near": 0,
+            "price": 619.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9214": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.74074074074083,
+            "price": 1345.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3976": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 12.266666666666692,
+            "price": 408.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "186A": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 0,
+            "price": 840.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5582": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 44.85925925925939,
+            "price": 2503.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6573": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.63703703703703,
+            "price": 81.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7138": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 73.49629629629628,
+            "price": 743.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "177A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 27.08148148148136,
+            "dead_cross_near": 0,
+            "price": 1726.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2370": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.48148148148148,
+            "price": 36.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4570": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 81.52592592592592,
+            "dead_cross_near": 0,
+            "price": 499.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7317": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 69.82222222222225,
+            "price": 681.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7083": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 34.71994176793992,
+            "price": 1044.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3140": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 76.32592592592599,
+            "dead_cross_near": 0,
+            "price": 1019.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4431": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 6.148148148148113,
+            "dead_cross_near": 0,
+            "price": 2831.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7707": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 95.31851851851852,
+            "price": 237.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7345": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 52.19259259259261,
+            "price": 552.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9270": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.85185185185192,
+            "dead_cross_near": 0,
+            "price": 817.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6040": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 5.703703703703821,
+            "dead_cross_near": 0,
+            "price": 1287.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4424": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 79.92592592592594,
+            "price": 315.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6176": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 17.540740740740702,
+            "price": 639.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4881": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.37037037037035,
+            "price": 126.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5575": {
+            "golden_cross": 0,
+            "dead_cross": 1,
+            "golden_cross_near": 0,
+            "dead_cross_near": 35.837037037037035,
+            "price": 915.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5028": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 95.9111111111111,
+            "dead_cross_near": 0,
+            "price": 345.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4444": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 60.207407407407345,
+            "price": 811.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7325": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 91.362962962963,
+            "price": 664.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6166": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 81.5703703703704,
+            "price": 341.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4599": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 84.0888888888889,
+            "dead_cross_near": 0,
+            "price": 341.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4416": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 69.46666666666665,
+            "dead_cross_near": 0,
+            "price": 736.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4177": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 47.73333333333337,
+            "dead_cross_near": 0,
+            "price": 1129.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5621": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 39.61481481481491,
+            "dead_cross_near": 0,
+            "price": 1446.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6568": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 93.9259259259259,
+            "price": 1103.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5867": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 36.99365234375011,
+            "price": 989.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5570": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 14.60740740740738,
+            "dead_cross_near": 0,
+            "price": 716.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9563": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 99.85185185185186,
+            "dead_cross_near": 0,
+            "price": 300.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4428": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 67.74080584490738,
+            "dead_cross_near": 0,
+            "price": 846.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4264": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 6.5037037037036,
+            "price": 1795.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4167": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.68148148148148,
+            "dead_cross_near": 0,
+            "price": 379.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4582": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 71.51111111111112,
+            "price": 173.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5131": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.04444444444445,
+            "price": 163.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6232": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.85925925925922,
+            "price": 937.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4015": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 17.540740740740702,
+            "dead_cross_near": 0,
+            "price": 608.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6182": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 69.27407407407411,
+            "price": 634.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6548": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 89.1111111111111,
+            "dead_cross_near": 0,
+            "price": 182.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7370": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 49.12671079282405,
+            "dead_cross_near": 0,
+            "price": 761.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4178": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.42962962962967,
+            "price": 716.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "142A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 61.42222222222219,
+            "price": 570.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4447": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 50.50370370370375,
+            "price": 526.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4379": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 92.22222222222223,
+            "dead_cross_near": 0,
+            "price": 335.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3418": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 51.2807174117476,
+            "dead_cross_near": 0,
+            "price": 1106.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2438": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.10370370370373,
+            "price": 468.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7360": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 75.99999999999997,
+            "price": 977.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4427": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 85.21481481481482,
+            "dead_cross_near": 0,
+            "price": 260.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4168": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 40.518518518518555,
+            "price": 757.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7794": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 55.437037037037015,
+            "dead_cross_near": 0,
+            "price": 683.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2586": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 72.00000000000001,
+            "dead_cross_near": 0,
+            "price": 173.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9225": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 12.40000000000009,
+            "dead_cross_near": 0,
+            "price": 1160.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6577": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 20.799999999999773,
+            "dead_cross_near": 0,
+            "price": 2969.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3070": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 94.2074074074074,
+            "price": 113.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "165A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 88.74074074074075,
+            "dead_cross_near": 0,
+            "price": 202.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2497": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 95.0666666666666,
+            "dead_cross_near": 0,
+            "price": 800.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7094": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 9.051851851851955,
+            "price": 1195.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3622": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 95.36296296296301,
+            "dead_cross_near": 0,
+            "price": 553.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2158": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 63.83703703703709,
+            "price": 589.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "168A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 65.74568865740741,
+            "dead_cross_near": 0,
+            "price": 1024.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3913": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 43.37777777777774,
+            "dead_cross_near": 0,
+            "price": 630.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4891": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 50.02962962962963,
+            "price": 177.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4073": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 0,
+            "price": 1076.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4576": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 82.4888888888889,
+            "price": 118.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5027": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 48.666666666666615,
+            "price": 1056.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9240": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 49.155555555555566,
+            "price": 365.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9165": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 75.20000000000007,
+            "price": 1267.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3970": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 90.53333333333336,
+            "dead_cross_near": 0,
+            "price": 1176.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3133": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 8.148148148148193,
+            "price": 925.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5129": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 10.325925925925883,
+            "price": 704.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9257": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 61.437037037037,
+            "dead_cross_near": 0,
+            "price": 630.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "215A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 56.79999999999987,
+            "dead_cross_near": 0,
+            "price": 1499.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3907": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 71.0666666666667,
+            "price": 732.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4571": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 92.28148148148149,
+            "dead_cross_near": 0,
+            "price": 156.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6034": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 93.68888888888894,
+            "dead_cross_near": 0,
+            "price": 712.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9219": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 15.218820529513932,
+            "dead_cross_near": 0,
+            "price": 1003.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5256": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 70.50370370370376,
+            "dead_cross_near": 0,
+            "price": 2801.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5587": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 53.80740740740735,
+            "price": 749.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3807": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.84444444444443,
+            "price": 155.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6038": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 11.644444444444469,
+            "dead_cross_near": 0,
+            "price": 827.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9237": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 79.77777777777773,
+            "price": 1910.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4381": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 62.177777777777756,
+            "price": 469.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4593": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 61.85185185185185,
+            "dead_cross_near": 0,
+            "price": 278.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9204": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 54.740740740740726,
+            "price": 542.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9522": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.33333333333343,
+            "price": 1245.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4772": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 95.79718108000579,
+            "price": 114.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3261": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 7.569071903935254,
+            "price": 1022.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "228A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 76.96296296296295,
+            "price": 1237.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4056": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 80.93333333333337,
+            "price": 792.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9254": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 26.681481481481473,
+            "price": 1390.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "1447": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 74.00000000000003,
+            "dead_cross_near": 0,
+            "price": 344.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6193": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 96.28148148148145,
+            "dead_cross_near": 0,
+            "price": 807.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3904": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 77.50368561921297,
+            "price": 439.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6550": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 78.04444444444445,
+            "dead_cross_near": 0,
+            "price": 161.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4069": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 27.31851851851843,
+            "dead_cross_near": 0,
+            "price": 1230.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4583": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 32.45925925925926,
+            "price": 157.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6094": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 48.13333333333338,
+            "price": 577.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4391": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 33.80740740740749,
+            "dead_cross_near": 0,
+            "price": 1242.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9346": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 37.54074074074071,
+            "price": 1447.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5136": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 42.63703703703692,
+            "dead_cross_near": 0,
+            "price": 1685.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9326": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 97.87439462167242,
+            "price": 341.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4490": {
+            "golden_cross": 0,
+            "dead_cross": 1,
+            "golden_cross_near": 0,
+            "dead_cross_near": 0,
+            "price": 990.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3550": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 92.26319964373553,
+            "dead_cross_near": 0,
+            "price": 197.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7114": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 3.95555555555549,
+            "price": 940.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4255": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 4.651851851851784,
+            "dead_cross_near": 0,
+            "price": 792.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3691": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 68.5481481481482,
+            "dead_cross_near": 0,
+            "price": 748.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5618": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 93.08148148148146,
+            "price": 279.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4495": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 38.63703703703701,
+            "price": 1414.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9258": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 58.77037037037035,
+            "dead_cross_near": 0,
+            "price": 403.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3908": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 87.68888888888891,
+            "price": 316.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3461": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.2074074074074,
+            "dead_cross_near": 0,
+            "price": 513.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2321": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 83.18518518518519,
+            "dead_cross_near": 0,
+            "price": 124.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3998": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 88.32592592592593,
+            "price": 357.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9212": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.07407407407408,
+            "price": 444.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4176": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 52.72592592592591,
+            "price": 301.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4397": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 23.688888888888883,
+            "dead_cross_near": 0,
+            "price": 455.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4564": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 98.99259259259259,
+            "dead_cross_near": 0,
+            "price": 28.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4166": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 74.44444444444444,
+            "price": 607.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4476": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 10.103703703703616,
+            "price": 1619.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "130A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 96.45925925925933,
+            "price": 811.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7096": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 85.27407407407408,
+            "dead_cross_near": 0,
+            "price": 1378.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6612": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 87.51111111111109,
+            "dead_cross_near": 0,
+            "price": 913.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4020": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 49.54074074074077,
+            "price": 626.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4388": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 73.18518518518519,
+            "price": 496.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5125": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 91.49629629629632,
+            "dead_cross_near": 0,
+            "price": 498.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7351": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 49.644444444444446,
+            "dead_cross_near": 0,
+            "price": 556.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4840": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 73.82222222222222,
+            "dead_cross_near": 0,
+            "price": 338.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7072": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0.1481481481481417,
+            "dead_cross_near": 0,
+            "price": 766.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3477": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 28.41481481481487,
+            "dead_cross_near": 0,
+            "price": 678.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6177": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.02222222222221,
+            "dead_cross_near": 0,
+            "price": 95.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5892": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 68.13333333333351,
+            "price": 2203.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6081": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.98518518518519,
+            "dead_cross_near": 0,
+            "price": 184.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "141A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 69.12592592592571,
+            "price": 2559.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2479": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 77.74814814814815,
+            "dead_cross_near": 0,
+            "price": 255.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9215": {
+            "golden_cross": 1,
+            "dead_cross": 0,
+            "golden_cross_near": 67.36296296296295,
+            "dead_cross_near": 0,
+            "price": 963.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9560": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 98.75555555555567,
+            "dead_cross_near": 0,
+            "price": 1144.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3723": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 73.9407407407407,
+            "dead_cross_near": 0,
+            "price": 1190.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7343": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 35.37777777777769,
+            "dead_cross_near": 0,
+            "price": 1452.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9163": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 12.785185185185178,
+            "price": 2351.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "157A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 61.06666666666671,
+            "price": 539.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7036": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 54.044443540219866,
+            "dead_cross_near": 0,
+            "price": 939.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "206A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 91.43703703703706,
+            "price": 288.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6224": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 53.29992585358796,
+            "dead_cross_near": 0,
+            "price": 1013.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7779": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 93.79259259259258,
+            "dead_cross_near": 0,
+            "price": 184.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4075": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 90.99259259259257,
+            "dead_cross_near": 0,
+            "price": 715.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4259": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 1.0074074074074346,
+            "price": 318.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3991": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.42962962962959,
+            "price": 1239.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7363": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 93.43703703703694,
+            "dead_cross_near": 0,
+            "price": 1215.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "156A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 64.2518518518519,
+            "dead_cross_near": 0,
+            "price": 666.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5026": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 12.266666666666627,
+            "price": 1127.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4394": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 67.08892596209492,
+            "dead_cross_near": 0,
+            "price": 863.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9251": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 29.22962962962957,
+            "dead_cross_near": 0,
+            "price": 913.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4482": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 69.551304796007,
+            "dead_cross_near": 0,
+            "price": 642.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9223": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 85.7185185185185,
+            "dead_cross_near": 0,
+            "price": 600.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4060": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 49.732685004340226,
+            "price": 812.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4308": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 32.11851851851855,
+            "dead_cross_near": 0,
+            "price": 431.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7069": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 95.97037037037038,
+            "dead_cross_near": 0,
+            "price": 758.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "138A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 29.126949508101664,
+            "price": 2211.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5240": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 44.562962962962985,
+            "price": 297.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4199": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 76.44444444444439,
+            "dead_cross_near": 0,
+            "price": 795.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4414": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 62.977777777777845,
+            "dead_cross_near": 0,
+            "price": 1801.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3474": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 34.45925925925925,
+            "price": 594.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3566": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 67.93398256655097,
+            "price": 501.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3063": {
+            "golden_cross": 0,
+            "dead_cross": 1,
+            "golden_cross_near": 0,
+            "dead_cross_near": 92.00995099103011,
+            "price": 690.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4387": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 36.029629629629575,
+            "dead_cross_near": 0,
+            "price": 832.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3815": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 74.71111111111112,
+            "dead_cross_near": 0,
+            "price": 510.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6561": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 85.10585937500007,
+            "dead_cross_near": 0,
+            "price": 1160.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5586": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 9.925925925925993,
+            "dead_cross_near": 0,
+            "price": 1160.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6072": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 95.65925925925926,
+            "dead_cross_near": 0,
+            "price": 178.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4934": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 60.962962962962976,
+            "dead_cross_near": 0,
+            "price": 835.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9348": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 23.46666666666667,
+            "dead_cross_near": 0,
+            "price": 702.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2173": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 76.95933159722219,
+            "price": 536.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9236": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.31111111111107,
+            "dead_cross_near": 0,
+            "price": 1195.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4884": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 36.48888888888892,
+            "price": 845.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3185": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 97.24444444444445,
+            "dead_cross_near": 0,
+            "price": 163.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "190A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 87.5259259259259,
+            "price": 259.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4888": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 9.570370370370384,
+            "price": 409.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7362": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 53.36296296296293,
+            "price": 854.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "189A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 90.6666666666667,
+            "dead_cross_near": 0,
+            "price": 812.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3625": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 36.41481481481479,
+            "dead_cross_near": 0,
+            "price": 684.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7043": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 50.3440538194444,
+            "dead_cross_near": 0,
+            "price": 689.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6049": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 69.49629629629631,
+            "dead_cross_near": 0,
+            "price": 290.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7031": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 81.39259259259259,
+            "price": 843.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9557": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 82.97777777777779,
+            "dead_cross_near": 0,
+            "price": 485.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9256": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 77.67407407407404,
+            "dead_cross_near": 0,
+            "price": 804.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3645": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 96.72592592592594,
+            "price": 315.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3929": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 59.570370370370384,
+            "dead_cross_near": 0,
+            "price": 263.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7372": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 62.87407407407405,
+            "dead_cross_near": 0,
+            "price": 324.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2978": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 71.67407407407407,
+            "price": 760.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6086": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 67.90572283709493,
+            "dead_cross_near": 0,
+            "price": 800.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6069": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.90370370370377,
+            "price": 867.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3986": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.59259259259257,
+            "price": 1416.0,
+            "end_date": "2025-03-14T00:00:00"
+        },
+        "7063": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 28.548148148148144,
+            "price": 235.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "175A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 99.77777777777773,
+            "price": 893.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3842": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 87.34814814814803,
+            "dead_cross_near": 0,
+            "price": 1085.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6190": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 79.52592592592592,
+            "dead_cross_near": 0,
+            "price": 382.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "9558": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 40.39406105324057,
+            "price": 2112.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5254": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 0.5925925925930664,
+            "price": 5490.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6255": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 70.37037037037041,
+            "price": 874.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7073": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 97.24932725694443,
+            "price": 2228.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4019": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.78221028645835,
+            "dead_cross_near": 0,
+            "price": 815.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4937": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 3.2592592592593284,
+            "price": 1045.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4375": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 89.9555555555556,
+            "price": 758.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7687": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 74.62222222222226,
+            "price": 483.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "198A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 77.15555555555562,
+            "price": 602.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4370": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 86.20740740740737,
+            "price": 301.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "173A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 18.829629629629686,
+            "dead_cross_near": 0,
+            "price": 1533.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6613": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 77.99999999999999,
+            "dead_cross_near": 0,
+            "price": 334.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5258": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 64.39999999999998,
+            "price": 358.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "4057": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 37.333333333333364,
+            "dead_cross_near": 0,
+            "price": 508.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "195A": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 4.385185185185236,
+            "dead_cross_near": 0,
+            "price": 799.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3936": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 98.72592592592594,
+            "price": 111.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3042": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 94.71111111111112,
+            "dead_cross_near": 0,
+            "price": 285.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7379": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 80.13333333333334,
+            "dead_cross_near": 0,
+            "price": 645.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "3541": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 46.41481481481479,
+            "dead_cross_near": 0,
+            "price": 337.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7694": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 90.38518518518521,
+            "price": 410.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5137": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 5.451851851851941,
+            "dead_cross_near": 0,
+            "price": 1905.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "6195": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 94.38518518518518,
+            "price": 196.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "2385": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 89.77777777777779,
+            "dead_cross_near": 0,
+            "price": 146.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7356": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 88.47407407407407,
+            "dead_cross_near": 0,
+            "price": 156.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "5596": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 0,
+            "dead_cross_near": 63.170370370370264,
+            "price": 1074.0,
+            "end_date": "2025-03-17T00:00:00"
+        },
+        "7091": {
+            "golden_cross": 0,
+            "dead_cross": 0,
+            "golden_cross_near": 30.192592592592547,
+            "dead_cross_near": 0,
+            "price": 1003.0,
             "end_date": "2025-03-17T00:00:00"
         }
     }
