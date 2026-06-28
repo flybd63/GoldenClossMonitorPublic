@@ -4,6 +4,7 @@ import datetime
 import os
 import sys
 from decimal import Decimal, ROUND_HALF_UP
+import concurrent.futures # ★追加: マルチスレッド用
 
 THRESHOLD = 90
 
@@ -92,74 +93,81 @@ def detect_cross(prices, ma25, ma75, threshold):
             
     return result
 
+# ★追加: 1銘柄分の処理を独立した関数に切り出し
+def process_single_ticker(ticker, info, mode, threshold):
+    # 対象市場のフィルタリング
+    if mode == "P" and "プライム" in info["class"]:
+        pass
+    elif mode == "S" and "スタンダード" in info["class"]:
+        pass
+    elif mode == "G" and "グロース" in info["class"]:
+        pass
+    else:
+        return None # 対象外
+
+    symbol = f"{ticker}.T"
+    last_end_date, prices, dates = get_stock_data(symbol)
+    
+    # データ不足チェック (75日平均を出すため75日分必要)
+    if len(prices) < 75:
+        sys.stderr.write(f"  - prices is short ({len(prices)} < 75). Skipping {symbol}.\n")
+        return None
+        
+    ma25 = moving_average(prices, 25)
+    ma75 = moving_average(prices, 75)
+    
+    cross_result = detect_cross(prices, ma25, ma75, threshold)
+    
+    history_data = []
+    data_len = len(dates)
+    start_idx = max(0, data_len - 60)
+    
+    for i in range(start_idx, data_len):
+        history_data.append({
+            "d": dates[i],
+            "p": round_half_up(prices[i], 1),
+            "m25": round_half_up(ma25[i], 2),
+            "m75": round_half_up(ma75[i], 2)
+        })
+        
+    return ticker, {
+        **cross_result, 
+        "price": prices[-1], 
+        "end_date": last_end_date,
+        "history": history_data
+    }
+
 def main(mode="P"):
     today = datetime.datetime.utcnow().strftime('%Y%m%d')
     tickers = load_mst()
     result = load_result(today)
     
-    for count, (ticker, info) in enumerate(tickers.items(), 1):
-        if mode == "P" and "プライム" in info["class"]:
-            pass
-        elif mode == "S" and "スタンダード" in info["class"]:
-            pass
-        elif mode == "G" and "グロース" in info["class"]:
-            pass
-        else:
-            continue
+    # 処理対象の銘柄だけをリストアップ
+    target_items = [
+        (t, info) for t, info in tickers.items()
+        if (mode == "P" and "プライム" in info["class"]) or
+           (mode == "S" and "スタンダード" in info["class"]) or
+           (mode == "G" and "グロース" in info["class"])
+    ]
+    total = len(target_items)
+    count = 0
 
-        #if ticker != "7203":#トヨタ
-        #    continue
-
-        sys.stderr.write(f"{count}/{len(tickers)} t:{ticker} {info['name']} {info['class']}\n")
+    # ★変更: ThreadPoolExecutorで並行処理を実行する
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # 順番を維持しつつ並行でデータ取得と計算を行う
+        results = executor.map(lambda item: process_single_ticker(item[0], item[1], mode, THRESHOLD), target_items)
         
-        symbol = f"{ticker}.T"
-        # datesも受け取るように変更
-        last_end_date, prices, dates = get_stock_data(symbol)
-        
-        # データ不足チェック (75日平均を出すため75日分必要)
-        if len(prices) < 75:
-            sys.stderr.write(f"  - prices is short ({len(prices)} < 75). Skipping.\n")
-            continue
-            
-        ma25 = moving_average(prices, 25)
-        ma75 = moving_average(prices, 75)
-
-        #sys.stderr.write(f"ma25 {ma25}\n")
-        #sys.stderr.write(f"ma75 {ma75}\n")
-        
-        cross_result = detect_cross(prices, ma25, ma75, THRESHOLD)
-        
-        # クロス関連のフラグが立っている場合のみ出力対象とする（元のロジック準拠）
-        # if any(cross_result.values()):
-            
-        # historyデータの作成
-        # dates, prices, ma25, ma75 は同じ長さであることを前提とする
-        history_data = []
-        data_len = len(dates)
-        
-        # 直近60日分を取得 (グラフ描画用)
-        # 全期間欲しい場合は range(data_len) にしてください
-        start_idx = max(0, data_len - 60)
-        
-        for i in range(start_idx, data_len):
-            history_data.append({
-                "d": dates[i],
-                "p": round_half_up(prices[i], 1),    # 株価
-                "m25": round_half_up(ma25[i], 2),    # 25日移動平均
-                "m75": round_half_up(ma75[i], 2)     # 75日移動平均
-            })
-            #sys.stderr.write(f"{dates[i]} ma25 {i} : {ma25[i]}\n")
-            
-        result[ticker] = {
-            **cross_result, 
-            "price": prices[-1], 
-            "end_date": last_end_date,
-            "history": history_data # ヒストリー追加
-        }
+        for res in results:
+            count += 1
+            if res is not None:
+                t, data = res
+                result[t] = data
+                sys.stderr.write(f"{count}/{total} t:{t} completed\n")
+            else:
+                sys.stderr.write(f"{count}/{total} skipped\n")
             
     now = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S')
     output = {"date_modified": now, "result": result}
-    # JSONサイズ削減のため separators を使用
     sys.stdout.write(json.dumps(output, ensure_ascii=False, separators=(',', ':')) + "\n")
 
 if __name__ == "__main__":
